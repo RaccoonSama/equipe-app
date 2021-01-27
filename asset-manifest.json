@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/equipe-app/static/css/main.3bb73663.chunk.css",
+    "main.js": "/equipe-app/static/js/main.98bd4c51.chunk.js",
+    "main.js.map": "/equipe-app/static/js/main.98bd4c51.chunk.js.map",
+    "runtime-main.js": "/equipe-app/static/js/runtime-main.aae70958.js",
+    "runtime-main.js.map": "/equipe-app/static/js/runtime-main.aae70958.js.map",
+    "static/js/2.58ea2ce5.chunk.js": "/equipe-app/static/js/2.58ea2ce5.chunk.js",
+    "static/js/2.58ea2ce5.chunk.js.map": "/equipe-app/static/js/2.58ea2ce5.chunk.js.map",
+    "static/js/3.835fa92d.chunk.js": "/equipe-app/static/js/3.835fa92d.chunk.js",
+    "static/js/3.835fa92d.chunk.js.map": "/equipe-app/static/js/3.835fa92d.chunk.js.map",
+    "index.html": "/equipe-app/index.html",
+    "static/css/main.3bb73663.chunk.css.map": "/equipe-app/static/css/main.3bb73663.chunk.css.map",
+    "static/js/2.58ea2ce5.chunk.js.LICENSE.txt": "/equipe-app/static/js/2.58ea2ce5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/equipe-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae70958.js",
+    "static/js/2.58ea2ce5.chunk.js",
+    "static/css/main.3bb73663.chunk.css",
+    "static/js/main.98bd4c51.chunk.js"
+  ]
+}
